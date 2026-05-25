@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shantanu Kundu</h1>
+<h1 align="center">Hey 👋 , I'm Shantanu Kundu</h1>
 <h3 align="center">
     MCA Student at VESIT&nbsp;
     <a href="https://www.ves.ac.in" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle;">
