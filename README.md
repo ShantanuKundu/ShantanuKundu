@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShantanuKundu" alt="ShantanuKundu-trophy" /></a> </p>
 
-- 🔭 I'm currently working on [CropCare AI](https://github.com/ShantanuKundu) — a FastAPI + React smart agriculture platform
+- 🔭 I'm currently working on [CropCare AI](https://github.com/ShantanuKundu/CropCare-AI) — a FastAPI + React smart agriculture platform
 
 - 🌱 I'm currently learning **Explainable AI (XAI) & Cloud Infrastructure (AWS / Terraform)**
 
@@ -21,8 +21,9 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/shantanu-kundu-52551520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-kundu" height="30" width="50" /></a>
-<a href="https://www.kaggle.com/shantanu210901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-kundu" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/aniruddhakj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddhakj" height="30" width="50" /></a>
+<a href="https://www.kaggle.com/shantanu210901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniruddhakj" height="30" width="50" /></a>
+<a href="https://leetcode.com/u/Shantanu_2k1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniruddhakj" height="30" width="50" /></a>
 </p>
 
 <h2 align="left">Languages:</h2>
