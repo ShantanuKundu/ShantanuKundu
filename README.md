@@ -4,7 +4,7 @@
     <a href="https://www.ves.ac.in" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle;">
         <img src="https://imgs.search.brave.com/DyEGnC1CwHPezAuXgGiHxooz5WCFN7NGgK4W4FByRtE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVzaXRzYy52ZXMu/YWMuaW4vdmVzaXRf/bG9nby5wbmc" alt="VESIT" height="40" style="vertical-align:middle; margin-left:8px;"/>
     </a>
-    &nbsp;| Ex-Deloitte <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/DeloitteNewSmall.png" alt="Deloitte UCI" height="40" style="vertical-align:middle; margin-left:8px;"/>
+    &nbsp; | Ex-Deloitte <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/DeloitteNewSmall.png" alt="Deloitte UCI" height="40" style="vertical-align:middle; margin-left:8px;"/>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShantanuKundu&label=Profile%20views&color=0e75b6&style=flat" alt="ShantanuKundu" /> </p>
