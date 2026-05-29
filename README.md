@@ -33,15 +33,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-    <a href="https://linkedin.com/in/aniruddhakj" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.kaggle.com/shantanu210901" target="blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/u/Shantanu_2k1/" target="blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </a>
+    <a href="https://www.linkedin.com/in/shantanu-kundu-52551520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanukundu-linkedin" height="30" width="50" /></a>
+<a href="https://www.kaggle.com/shantanu210901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shantanukundu-kaggle" height="30" width="50" /></a>
+<a href="https://leetcode.com/u/Shantanu_2k1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shantanukundu-leetcode" height="30" width="50" /></a>
 </p>
 
 ---
