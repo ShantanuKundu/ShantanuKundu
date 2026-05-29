@@ -79,10 +79,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShantanuKundu&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" />&nbsp;&nbsp;<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShantanuKundu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
+<table>
+<tr>
+<td><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShantanuKundu&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" /></td>
+<td><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShantanuKundu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /></td>
+</tr>
+</table>
 
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuKundu&theme=tokyonight&hide_border=true" />
 </div>
 
