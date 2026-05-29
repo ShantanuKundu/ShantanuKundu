@@ -50,8 +50,6 @@
 
 ## ⚙️ Tools & Frameworks
 
-## ⚙️ Tools & Frameworks
-
 <p align="center">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
@@ -99,13 +97,6 @@
 
 ---
 
-## ⚡ Fun Stuff
-
-- 🤖 Building AI systems that actually help farmers — not just demo models
-- 🌍 Believer in tech that solves ground-level problems
-- 📚 NPTEL ML enthusiast | Research-oriented mindset
-- 🐳 If it can't be Dockerized, is it even real?
-- ☕ Fueled by chai and stack traces
 
 ---
 
