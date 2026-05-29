@@ -51,7 +51,7 @@
 ## ⚙️ Tools & Frameworks
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,spring,django,docker,aws,terraform,tensorflow,opencv,mongodb,postgresql,mysql,git,linux,bash,postman" />
+    <img src="https://skillicons.dev/icons?i=spring,docker,jenkins,tensorflow,aws,terraform,pandas,opencv,sklearn,neo4j,django,git,linux,fastapi,node,react,postman" />
 </p>
 
 <p align="center">
