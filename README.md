@@ -84,9 +84,10 @@
 <td><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShantanuKundu&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" /></td>
 <td><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShantanuKundu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /></td>
 </tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuKundu&theme=tokyonight&hide_border=true" /></td>
+</tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuKundu&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
