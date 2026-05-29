@@ -26,7 +26,6 @@
 - 🧠 Researching **SHC Soil + Image Fusion for Crop Disease Risk Prediction** (CNN + XGBoost late fusion)
 - 💬 Ask me about **ML, FastAPI, Docker, PostgreSQL, RAG Systems and more!**
 - 💼 Previously at **Deloitte** — now focused on AI/ML engineering and research
-- 🌾 Passionate about **AgriTech, ML research, and building real-world deployable systems**
 - 📫 Reach me at **shantanukundu2001@gmail.com**
 
 ---
