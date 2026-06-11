@@ -96,7 +96,7 @@
 ## 🏆 LeetCode Stats
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/Shantanu_2k1?theme=unicorn&font=Karma&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/Shantanu_2k1?theme=nord&font=Karma&ext=contest" />
 </div>
 
 ---
