@@ -92,6 +92,15 @@
 
 ---
 
+
+## 🏆 LeetCode Stats
+
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/Shantanu_2k1?theme=tokyonight&font=Karma&ext=contest" />
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
